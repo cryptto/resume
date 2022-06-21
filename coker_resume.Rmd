@@ -1,0 +1,321 @@
+---
+title: "David A Coker"
+author: "David A Coker"
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+```{r Load_Fonts, echo=FALSE}
+library(fontawesome)
+```
+
+
+Aside
+================================================================================
+
+
+![David A Coker](coker.png){width=80%}
+<!-- ![Eric Scott](`r here::here("eric.png")`) -->
+
+`r fa("male", fill="black")`
+`r fa("globe", fill="blue")`
+`r fa("hiking", fill="blue")` 
+`r fa("biking", fill="blue")` 
+`r fa("book-reader", fill="blue")` 
+`r fa("passport", fill="blue")`
+`r fa("city", fill="blue")`
+
+<!--
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+-->
+
+<i class="fa fa-linkedin"></i> [linkedin.com/in/davidacoker](https://linkedin.com/in/davidacoker)
+
+<i class="fa fa-envelope"></i> davidacoker@gmail.com
+
+<i class="fa fa-home"></i> Utah
+
+<i class="fa fa-phone"></i> +1 719.352.9262
+
+<!-- - <i class="fa fa-github"></i> [github.com/cryptto](https://github.com/cryptto) -->
+<!-- - <i class="fa-brands fa-kaggle"></i> [github.com/cryptto](https://github.com/cryptto) -->
+
+
+
+
+`r fa("cogs", fill="blue")` Skills {#skills}
+--------------------------------------------------------------------------------
+
+- `r fa("layer-group", fill="blue")` System Architecture
+- `r fa("industry", fill="blue")` DevSecOps
+- `r fa("r-project", fill="blue")` R Language
+- `r fa("chart-bar", fill="blue")` Data Science/ML
+- <span style="color:blue"> $\int$ </span> Mathematics and `r fa("atom", fill="blue")` Physics
+- Some `r fa("python", fill="blue")`  Python and `r fa("database", fill="blue")` SQL
+
+`r fa("shield", fill="blue")` Clearance {#skills}
+--------------------------------------------------------------------------------
+
+- TS w/SSBI
+
+`r fa("graduation-cap", fill="blue")` Education {#skills}
+--------------------------------------------------------------------------------
+
+
+- **Ph.D. in Physics** Stony Brook University
+- **B.S. in Physics** New Mexico Institute of Mining and Technology
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`-->
+
+```{css Stop_Sidebar, echo=FALSE}
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+```
+
+
+Main
+================================================================================
+
+David A. Coker, Ph.D. {#title}
+--------------------------------------------------------------------------------
+
+<!--### Leadership
+
+-	Successful track record transitioning concepts into solutions
+-	Demonstrated experience building and leading technical teams
+-	Technical contributor
+
+-->
+
+Technical leader who brings innovative solutions to challenging problems through a combination of system architecture, software design, data science, and DevSecOps techniques
+<!-- Scientific background spanning math, physics, and data science.-->
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Booz Allen Hamilton
+
+Distinguished Technologist
+
+Layton, UT
+
+2020-2022
+
+- Chief Architect providing enterprise design and engineering leadership spanning C2 and ISR mission areas
+- Led development of a virtualized data fabric providing schema-on-query information access to disparate and distributed data environments
+- Lead system risk engineer for airframe certification test harness
+- Data architect for air readiness analytics platform
+
+
+### Novetta
+
+Chief Architect, Intelligence Mission Systems
+
+McLean, VA
+
+2018-2020
+
+- Led architectural and design efforts for the Integrated Mission Management (IMM) system
+- Developed framework integrating more than 25 systems into a single data fabric 
+-	Provided enterprise architecture support to DIA CIO for cloud migration and management of legacy applications
+
+### Polaris Alpha
+
+Chief Information Officer
+
+Colorado Springs, CO
+
+2016-2018
+
+- Led IT organization that delivered an integrated digital enterprise across 6 companies (1,400 employees, 400 sw engineers, and 25 sites)
+- Expanded self-service DevSecOps environment to support 400 sw engineers
+- Implemented a resilient, hybrid computing fabric for corporate operations and software development
+- Championed automation innovation efforts that led to cost savings of more than 25% while with an 80% increase in productivity
+
+<!--
+I held several positions over my tenure of 13 years with this firm. I held Program Management (Director/VP), Product Management (Director), Engineering Management (Director/VP), and IT Management (SVP/CIO) roles.
+-->
+
+
+### Intelligent Software Solutions
+
+SVP, Business Informatics
+
+Colorado Springs, CO
+
+2015-2017
+
+- Transformed IT operations to a managed, planned, and repeatable infrastructure (500 employees and 10 sites)
+-	Established DevSecOps infrastructure supporting more than 200 sw engineers
+-	Developed IT strategy and processes reducing project implementation times by as much as 50% with budgetary savings of 25%
+-	Reduced capital replacement costs by more than 35% through negotiated vendor contracts and improved project planning
+
+### Intelligent Software Solutions
+
+VP, Product Services and Infrastructure
+
+Colorado Springs, CO
+
+2013-2015
+
+::: concise
+- Provided Product Management and Strategy for primary corporate technical baselines
+-	Led development of WebTAS Enterprise, a secure, containerized analytics platform for rapid application development
+- Implemented a DevSecOps approach for micro-service application development
+-	Stood up Springblox Professional Services to provide technical services for Solar and MuleSoft adopters
+-	Transitioned corporate compliance approach to the Risk Management Framework
+:::
+
+### Intelligent Software Solutions
+
+VP, Programs and Operations
+
+Colorado Springs, CO
+
+2011-2012
+
+::: concise
+- Led 100M+ data management effort spanning global defense operations across 4 continents
+-	Grew team by 80% over 3-year period to address growing user adoption
+- Successful migration of existing product lines to enterprise native architectures
+-	Championed the introduction of Agile DevOps methodologies into product development efforts
+:::
+
+### Intelligent Software Solutions
+
+Director, Product Management
+
+Colorado Springs, CO
+
+2006-2011
+
+::: concise
+- Led Product Management for WebTAS Analytics and CIDNE Reporting platforms
+-	Implemented Agile DevSecOps processes including RMF adoption
+- RMF compliance led to 80% reduction in typical time to receive ATOs
+-	Proposal and Program Manager for $985M IDIQ contract
+:::
+
+### Intelligent Software Solutions
+
+Operations Manager
+
+Colorado Springs, CO
+
+2005-2006
+
+<!--
+- Provided planning, budgetary, staffing, and project review support
+-->
+
+### Integrated Sensors, Inc.
+
+VP and General Manager
+
+Utica, NY
+
+2002-2005
+
+<!--
+::: concise
+- Led engineering and R&D programs for automated navigation systems, collision avoidance, and sensor fusion
+- Created one of the first operational EPC RFID solutions in a FORTUNE 500 manufacturing facility
+:::
+-->
+
+### NetTest
+
+VP, Optical Network Systems
+
+Utica, NY
+
+1998-2002
+
+<!--
+::: concise
+- Stood up the Optical Network Systems Business Unit
+- Led development of the next generation QuestFiber product growing annual revenues by 300%
+- Created strategic, global marketing partnerships generating 30% of annual sales
+- Received Frost & Sullivan Award for Most Innovative Product
+:::
+-->
+### Integrated Sensors, Inc.
+
+Manager, Software Engineering
+
+Utica, NY
+
+1997-1998
+
+<!--
+::: concise
+-	Oversaw MDA and DARPA activities addressing real-time, embedded signal-processing efforts
+-	Led engineering and R&D teams focused on radar signal processing in parallel computing environments 
+:::
+--> 
+
+Research and Teaching Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Assistant Professor, Mathematics and Physics
+
+SUNY Polytechnic
+
+Utica, NY
+
+1994-1997
+
+
+### Postdoctoral Research Associate
+
+Princeton University
+
+Princeton, NJ
+
+1993-1994
+
+### Postdoctoral Research Associate
+
+Stony Brook University
+
+Stony Brook, NY
+
+1993
+
+
+<!-- 
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Stony Brook University
+
+Ph.D. in Physics
+
+Stony Brook, NY
+
+1988--1993
+
+
+### New Mexico Institute of Mining and Technology
+
+B.S. in Physics
+
+Socorro, NM
+
+1984--1988
+
+-->
