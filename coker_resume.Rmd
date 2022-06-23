@@ -81,16 +81,8 @@ Main
 David A. Coker, Ph.D. {#title}
 --------------------------------------------------------------------------------
 
-<!--### Leadership
-
--	Successful track record transitioning concepts into solutions
--	Demonstrated experience building and leading technical teams
--	Technical contributor
-
--->
-
 Technical leader who brings innovative solutions to challenging problems through a combination of system architecture, software design, data science, and DevSecOps techniques
-<!-- Scientific background spanning math, physics, and data science.-->
+
 
 
 Professional Experience {data-icon=suitcase}
@@ -133,10 +125,6 @@ Colorado Springs, CO
 - Expanded self-service DevSecOps environment to support 400 sw engineers
 - Implemented a resilient, hybrid computing fabric for corporate operations and software development
 - Championed automation innovation efforts that led to cost savings of more than 25% while with an 80% increase in productivity
-
-<!--
-I held several positions over my tenure of 13 years with this firm. I held Program Management (Director/VP), Product Management (Director), Engineering Management (Director/VP), and IT Management (SVP/CIO) roles.
--->
 
 
 ### Intelligent Software Solutions
@@ -205,8 +193,6 @@ Operations Manager
 Colorado Springs, CO
 
 2005-2006
-
-
 
 
 ### Integrated Sensors, Inc.
